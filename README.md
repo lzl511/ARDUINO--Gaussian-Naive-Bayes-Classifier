@@ -1,6 +1,5 @@
 # Arduino--Gaussian-Naive-Bayes-Classifier
 - Arduino Portenta H7
 - Breast Cancer Classification.ipynb: Preparing the dataset for breast cancer classification on Arduino and benchmarking its classification performance
-- Breast_Cancer_Classification.ino: Breast cancer classification on Arduino
-
+- Breast_Cancer_Classification.ino: Performing breast cancer classification on Arduino
 
